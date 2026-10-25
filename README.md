@@ -23,5 +23,4 @@ Seguir desarrollándome en el sector tecnológico, aplicar mis conocimientos en 
 
 ### 📫 Contacto
 
-- **Portafolio:** https://fernandox-portafolio.vercel.app/
 - **Correo:** fernandomanrique2104@gmail.com
