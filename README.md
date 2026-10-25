@@ -1,26 +1,113 @@
-# ¡Hola! Soy Fernando Manrique 👋
 
-### Desarrollador de software | Egresado de Computación e Informática
+<div align="center">
 
-Soy egresado de Computación e Informática de Cibertec, interesado en el desarrollo de software y la creación de soluciones tecnológicas que respondan a necesidades reales.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:172554,100:6d28d9&text=Fernando%20Manrique&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=Software%20Developer%20%7C%20Computaci%C3%B3n%20e%20Inform%C3%A1tica&descSize=15&descAlignY=65&animation=fadeIn" width="100%" />
 
-Me gusta aprender nuevas tecnologías, desarrollar aplicaciones y fortalecer mis habilidades mediante proyectos prácticos. Actualmente, busco seguir creciendo profesionalmente y participar en proyectos donde pueda aportar mis conocimientos y continuar aprendiendo.
+<a href="https://fernandox-portafolio.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTAFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/Fernandoxxi">
+  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**[Mi portafolio](https://fernandox-portafolio.vercel.app/)**  
-Mi espacio personal para presentar mis proyectos, conocimientos y evolución como desarrollador.
+</div>
 
-### 🛠️ Tecnologías y herramientas
+---
 
-- **Lenguajes:** Java, JavaScript, TypeScript, Dart y SQL.
-- **Frontend:** HTML, CSS y tecnologías para el desarrollo de interfaces web.
-- **Backend:** Spring Boot y Node.js.
-- **Bases de datos:** MySQL, SQL Server y MongoDB.
-- **Herramientas:** Git, GitHub, Visual Studio Code, Android Studio e Insomnia.
+## 👨‍💻 Sobre mí
 
-### 🎯 Objetivo profesional
+¡Hola! Soy **Fernando Manrique**, egresado de Computación e Informática de Cibertec.
 
-Seguir desarrollándome en el sector tecnológico, aplicar mis conocimientos en proyectos reales y construir soluciones de software útiles, mantenibles y orientadas a las necesidades de los usuarios.
+Me interesa el desarrollo de software y la creación de soluciones tecnológicas útiles. Disfruto aprender nuevas herramientas, desarrollar aplicaciones y transformar ideas en proyectos funcionales.
 
-### 📫 Contacto
+- 💻 Interesado en el desarrollo frontend y backend.
+- 📱 Desarrollo de aplicaciones móviles y web.
+- 🗄️ Conocimientos en bases de datos y APIs REST.
+- 🌱 En constante aprendizaje y mejora de mis habilidades.
+- 🎯 Objetivo: crecer profesionalmente como desarrollador de software.
 
-- **Correo:** fernandomanrique2104@gmail.com
+---
+
+## 🛠️ Tecnologías y herramientas
+
+<div align="center">
+
+### Lenguajes de programación
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,dart,html,css" />
+
+### Frameworks y desarrollo
+
+<img src="https://skillicons.dev/icons?i=spring,flutter,nodejs" />
+
+### Bases de datos y herramientas
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,androidstudio" />
+
+</div>
+
+---
+
+## 🚀 Proyectos destacados
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 INCA PZ
+
+Aplicación móvil de estimulación cognitiva para niños, con minijuegos orientados a desarrollar la memoria, atención, lenguaje y motricidad.
+
+**Tecnologías:** Flutter · Dart
+
+[Ver repositorio →](https://github.com/Fernandoxxi/INCAPZ)
+
+</td>
+<td width="50%">
+
+### 🏨 InnGenix
+
+Prototipo web para la gestión de reservas hoteleras, con interfaces para usuarios y administradores.
+
+**Tecnologías:** HTML · CSS · JavaScript
+
+[Ver repositorio →](https://github.com/Fernandoxxi/InnGenix)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Fernandoxxi&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fernandoxxi&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Fernandoxxi&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+<a href="https://fernandox-portafolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portafolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/Fernandoxxi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+<sub>Construyendo, aprendiendo y mejorando un proyecto a la vez.</sub>
+</div>
