@@ -6,18 +6,6 @@ Soy egresado de Computación e Informática de Cibertec, interesado en el desarr
 
 Me gusta aprender nuevas tecnologías, desarrollar aplicaciones y fortalecer mis habilidades mediante proyectos prácticos. Actualmente, busco seguir creciendo profesionalmente y participar en proyectos donde pueda aportar mis conocimientos y continuar aprendiendo.
 
-### 🚀 Proyectos destacados
-
-**[INCA PZ](https://github.com/Fernandoxxi/INCAPZ)**  
-Aplicación móvil de estimulación cognitiva orientada a niños, con minijuegos interactivos enfocados en la memoria, la atención, el lenguaje y la motricidad.
-
-Tecnologías: Flutter y Dart.
-
-**[InnGenix](https://github.com/Fernandoxxi/InnGenix)**  
-Prototipo web de reservas y gestión hotelera, diseñado para facilitar la administración de reservas y la interacción con los usuarios.
-
-Tecnologías: HTML, CSS y JavaScript.
-
 **[Mi portafolio](https://fernandox-portafolio.vercel.app/)**  
 Mi espacio personal para presentar mis proyectos, conocimientos y evolución como desarrollador.
 
@@ -36,5 +24,4 @@ Seguir desarrollándome en el sector tecnológico, aplicar mis conocimientos en 
 ### 📫 Contacto
 
 - **Portafolio:** https://fernandox-portafolio.vercel.app/
-- **GitHub:** https://github.com/Fernandoxxi
 - **Correo:** fernandomanrique2104@gmail.com
