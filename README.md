@@ -6,8 +6,8 @@
 <a href="https://fernandox-portafolio.vercel.app/">
   <img src="https://img.shields.io/badge/PORTAFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://github.com/Fernandoxxi">
-  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/fernandoxmanrique/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -102,8 +102,8 @@ Prototipo web para la gestión de reservas hoteleras, con interfaces para usuari
 <a href="https://fernandox-portafolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portafolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://github.com/Fernandoxxi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/fernandoxmanrique/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Contáctame-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
